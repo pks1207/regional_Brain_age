@@ -1,0 +1,6 @@
+model_checkpoint_path: "/ifs/loni/faculty/hkim/gilsoon/Brain_age_steps/cnn_graph/lib/../checkpoints/KORBB/fourier_v02/train_age_korbb_regional_brain_age_vnt_f1/model.ckpt-630000"
+all_model_checkpoint_paths: "/ifs/loni/faculty/hkim/gilsoon/Brain_age_steps/cnn_graph/lib/../checkpoints/KORBB/fourier_v02/train_age_korbb_regional_brain_age_vnt_f1/model.ckpt-621600"
+all_model_checkpoint_paths: "/ifs/loni/faculty/hkim/gilsoon/Brain_age_steps/cnn_graph/lib/../checkpoints/KORBB/fourier_v02/train_age_korbb_regional_brain_age_vnt_f1/model.ckpt-623700"
+all_model_checkpoint_paths: "/ifs/loni/faculty/hkim/gilsoon/Brain_age_steps/cnn_graph/lib/../checkpoints/KORBB/fourier_v02/train_age_korbb_regional_brain_age_vnt_f1/model.ckpt-625800"
+all_model_checkpoint_paths: "/ifs/loni/faculty/hkim/gilsoon/Brain_age_steps/cnn_graph/lib/../checkpoints/KORBB/fourier_v02/train_age_korbb_regional_brain_age_vnt_f1/model.ckpt-627900"
+all_model_checkpoint_paths: "/ifs/loni/faculty/hkim/gilsoon/Brain_age_steps/cnn_graph/lib/../checkpoints/KORBB/fourier_v02/train_age_korbb_regional_brain_age_vnt_f1/model.ckpt-630000"
