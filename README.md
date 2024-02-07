@@ -3,7 +3,7 @@
 - The code in this repository pertains to brain age models that are based on the cortical surface. 
 - The model was constructed and trained by Gilsoon Park.
 - Convolutional graphical neural networks were used (https://github.com/mdeff/cnn_graph).
-</br>
+
 ### Dependencies
 ---
 * OS: CentOS Linux release 7.9.2009 (Core)
